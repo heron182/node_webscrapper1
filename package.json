@@ -1,0 +1,28 @@
+{
+  "name": "node_webscrapper1",
+  "version": "1.0.0",
+  "description": "a node webscrapper",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heron182/node_webscrapper1.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "webscrapper"
+  ],
+  "author": "heron rossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heron182/node_webscrapper1/issues"
+  },
+  "homepage": "https://github.com/heron182/node_webscrapper1#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
